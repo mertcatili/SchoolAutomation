@@ -1,0 +1,2 @@
+Database olarak JDBC kullandık. Full Back-up alınmadığı için sadece tabloları export ettik. 
+Projeyi çalıştırmak için db_derslik adında bir JDBC veri tabanı kurup tabloları içine import etmeniz gerekecek.
